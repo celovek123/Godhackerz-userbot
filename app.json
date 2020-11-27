@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-    "repository": "https://github.com/rohithaditya/Godhackerz-userbot.git",
-    "website": "https://github.com/rohithaditya/Godhackerz-userbot/tree/main",
-    "success_url": "https://github.com/rohithaditya/Godhackerz-userbot/blob/main/README.md",
+    "repository": "https://github.com/celovek123/Godhackerz-userbot.git",
+    "website": "https://github.com/celovek123/Godhackerz-userbot/tree/main",
+    "success_url": "https://github.com/celovek123/Godhackerz-userbot/blob/main/README.md",
       "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
